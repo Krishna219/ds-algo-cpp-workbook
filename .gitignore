@@ -42,3 +42,9 @@
 
 # WIP files
 folder_structure.txt
+
+# virtual env files
+.venv
+
+# ipynb checkpoint
+.ipynb_checkpoints

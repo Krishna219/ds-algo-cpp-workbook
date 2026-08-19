@@ -3,7 +3,7 @@
 #include <stack>
 using namespace std;
 int main(){
-char str[10] = "123456789";
+char str[10] = "abcdefghi"; //"123456789";
 stack<char> s1, s2;
 int i;
 for(i = 0; i < strlen(str)/2; i++)
